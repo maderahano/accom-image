@@ -14,3 +14,6 @@
 ![ratings-info](https://github.com/maderahano/accom-image/assets/76169846/cac6de57-5e4d-4593-af6f-51f09a1f1bc9)
 ![users-info](https://github.com/maderahano/accom-image/assets/76169846/d1bc1985-23d7-4d3d-b134-e0a455f38297)
 ![books-evaluation-metric](https://github.com/maderahano/accom-image/assets/76169846/4e71d2db-14cb-4176-8052-c8dcecb633b5)
+![top-10-populer-books](https://github.com/maderahano/accom-image/assets/76169846/8fd84715-414b-4a53-92dc-8abb4abce09b)
+![top-10-experienced-users](https://github.com/maderahano/accom-image/assets/76169846/e9f85c50-e879-4b9b-a97e-520eea64d947)
+![top-10-authors](https://github.com/maderahano/accom-image/assets/76169846/14ed8825-1c0b-46e4-97ee-6e4f584e62f9)
